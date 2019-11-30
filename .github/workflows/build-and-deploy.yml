@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: main
       env:
-        ACCESS_TOKEN:  ${{ secrests.ACCESS_TOKEN }}
+        ACCESS_TOKEN:  ${{ secrets.ACCESS_TOKEN }}
       run: |
         sudo snap install hugo --channel=extended
         git config --global user.email "h.nakamura0903@gmail.com"
