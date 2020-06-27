@@ -21,6 +21,7 @@ jobs:
         git clone --recursive -b master https://github.com/nekoTheShadow/nekoTheShadow.github.io.admin.git ${GITHUB_WORKSPACE}/nekoTheShadow.github.io.admin
         git clone --recursive -b master https://github.com/nekoTheShadow/nekoTheShadow.github.io.git       ${GITHUB_WORKSPACE}/nekoTheShadow.github.io.admin/public
         cd ${GITHUB_WORKSPACE}/nekoTheShadow.github.io.admin
+        git submodule update --remote
         hugo
         cd ${GITHUB_WORKSPACE}/nekoTheShadow.github.io.admin
         msg=$(git log -1 --pretty="%s (from github actions)")
