@@ -12,8 +12,7 @@ theme = "hyde-hyde"
   url = "/infomation"
 
 [params]
-  themeColor = "theme-base-09"
+  themeColor = "theme-base-0f"
   copyright = "neko the shadow"
   description = "personal stuff"
   dateformat = "2006-01-02"
-
