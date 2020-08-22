@@ -1,12 +1,8 @@
-{{ define "header" -}}
-  {{ partial "header.html" . }}
+{{ define "main" -}}
+  <main>
+    {{ range where .Site.Pages "Section" "special" }}
+      {{ .Content }}
+    {{- end}}
+  </main>
 {{- end }}
 
-{{ define "content" -}}
-  {{ range where .Site.Pages "Section" "special" }}
-    {{ .Content }}
-  {{- end}}
-{{- end }}
-
-{{ define "footer" -}}
-{{- end }}

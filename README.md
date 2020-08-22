@@ -18,8 +18,14 @@ cd nekoTheShadow.github.io.admin
 git submodule update --remote
 ```
 
-稼働確認を行う場合は`server.bat`を実行し、`http://localhost:1313/`にアクセスする。
-なお`server.bat`は前提として、[Hugo公式のDocker](https://hub.docker.com/r/klakegg/hugo/)を要求する。
+稼働確認を行う場合は`server.sh`を実行し、`http://localhost:1313/`にアクセスする。
+なお`server.sh`は前提として、[Hugo公式のDocker](https://hub.docker.com/r/klakegg/hugo/)を要求する。
+
+# MEMO
+- [Hugo](https://gohugo.io/)
+- [smol](https://github.com/colorchestra/smol)
+- [化け猫アイコンメーカー](http://neutralx0.net/tool/bnmk.html)
+- [Favicon & App Icon Generator](https://www.favicon-generator.org/)
 
 # 参考
 
