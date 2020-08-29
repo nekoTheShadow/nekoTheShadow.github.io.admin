@@ -1,8 +1,4 @@
 baseURL = "https://nekotheshadow.github.io/"
 languageCode = "ja"
 title = "neko the shadow's personal stuff"
-theme = "smol"
-
-[params]
-  subtitle = "IT業界の片隅でひっそり生きるシステムエンジニアです(´・ω・｀)"
-  dateformat = "2006-01-02"
+theme = "archie"

@@ -1,8 +1,6 @@
 {{ define "main" -}}
   <main>
-    {{ range where .Site.Pages "Section" "special" }}
-      {{ .Content }}
-    {{- end}}
+    {{ .Content }}
   </main>
 {{- end }}
 
