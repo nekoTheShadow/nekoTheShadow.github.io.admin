@@ -94,6 +94,17 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   Riot.js & SemanticUI & Github Pages。コンテンツの生成やビルド・デプロイの自動化にはPython3 & Github Actionsを利用しています
 -   [codeforces](https://github.com/nekoTheShadow/codeforces) - 解答済みコードを管理しているレポジトリで、このレポジトリにPushされると、Github Actionsによりサイトの内容が更新されます
 
+## [jcal](https://github.com/nekoTheShadow/jcal)
+
+-   自分用calコマンド、略してjcalコマンドです。
+-   月単位のカレンダーを表示するコマンドで、土日祝日を色付けして表示します。祝日がある場合は、どの祝日であるのかも表示します。
+-   作成にはGo言語を作成。statikを利用し、内閣府配布の国民の祝日CSVを取り込んでいるので、スタンドアローンで稼働します。各環境用のバイナリ作成と配布はgoreleaserを利用。これはGithub Actionsを使って自動化しています。
+
+## [rurema-preview](https://github.com/nekoTheShadow/rurema-preview)
+
+-   Rubyの日本語マニュアルである"るりま"を修正したのち、想定通り修正できたかを簡単に確認するためのDockerイメージです。
+-   [rurema-preview](https://github.com/users/nekoTheShadow/packages/container/rurema-preview/30180) - Dockerfileをもとに日次でイメージを作成し、このレポジトリに設置しています。イメージの作成はGithub Actionsを利用して自動化しています。
+
 # Award
 
 -   [Master the Mainframe 2015 優秀賞](https://www.ibm.com/jp-ja/it-infrastructure/z/learn/master-the-mainframe-past-championship)
