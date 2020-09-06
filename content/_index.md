@@ -8,10 +8,12 @@ draft: false
 
 SI業界の片隅でひっそり生きるシステムエンジニア。おもに完成車メーカ、自動車部品メーカのお客様を担当。いわゆるオープン系(Linux)のサーバサイドエンジニアで、Javaを利用したWebシステムの開発が中心です。
 
-# Preferred contact method (このサイトを見たことを添えていただくとスムーズです。)
+# Preferred contact method 
+
+このサイトを見たことを添えていただくとスムーズです。
 
 -   [Twitter](https://twitter.com/neko_the_shadow)
--   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)。
+-   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
 
 # SNS
 
