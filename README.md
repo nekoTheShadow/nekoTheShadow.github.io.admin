@@ -23,7 +23,6 @@ git submodule update --remote
 
 # MEMO
 - [Hugo](https://gohugo.io/)
-- [smol](https://github.com/colorchestra/smol)
 - [化け猫アイコンメーカー](http://neutralx0.net/tool/bnmk.html)
 - [Favicon & App Icon Generator](https://www.favicon-generator.org/)
 
