@@ -106,6 +106,11 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   Rubyの日本語マニュアルである"るりま"を修正したのち、想定通り修正できたかを簡単に確認するためのDockerイメージです。
 -   [rurema-preview](https://github.com/users/nekoTheShadow/packages/container/rurema-preview/30180) - Dockerfileをもとに日次でイメージを作成し、このレポジトリに設置しています。イメージの作成はGithub Actionsを利用して自動化しています。
 
+## [qiita-backup](https://nekotheshadow.github.io/qiita-backup/)
+
+- Qiitaに投稿した記事のバックアップを取得し、内容をGithub Pages & Hugoを利用して公開しています。
+- [qiita-backup](https://github.com/nekoTheShadow/qiita-backup) - 必要なモジュールやバックアップ、公開内容までをすべて格納したレポジトリです。バックアップの取得、hugoに適した形式への加工、ビルド、Github Pagesへの公開までをGithub Actionsを用いて自動化しています。
+
 # Award
 
 -   [Master the Mainframe 2015 優秀賞](https://www.ibm.com/jp-ja/it-infrastructure/z/learn/master-the-mainframe-past-championship)
