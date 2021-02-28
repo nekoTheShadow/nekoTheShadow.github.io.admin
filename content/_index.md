@@ -26,6 +26,7 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 
 -   [Qiita](https://qiita.com/neko_the_shadow)
 -   [GitHub](https://github.com/nekoTheShadow)
+-   [teratail](https://teratail.com/users/neko_the_shadow)
 
 ## Competitive programming
 
