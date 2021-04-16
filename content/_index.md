@@ -1,6 +1,6 @@
 ---
 title: "neko the shadow's personal stuff"
-date: 2020-08-21
+date: 2021-04-16
 draft: false
 ---
 
@@ -41,35 +41,6 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
 -   転職ドラフト (登録済みです。連絡いただければ、職務経歴などお送ります)
 
-# Skill
-
-## Production
-
--   Java (Java EE, Spring)
--   JavaScript
--   bash
--   SQL
--   Red Hat Enterprise Linux
--   Db2
--   Oracle Database
--   IBM WebSphere Application Server
--   JBoss Application Server
--   IBM Cognos Analytics
--   SVN
--   Maven
-
-## Hobby
-
--   Ruby
--   Python3
--   Go
--   Ubuntu
--   Git
--   GitHub
--   Riot.js
--   Hugo
--   Spring Boot
-
 # Licence
 
 -   ITパスポート
@@ -79,38 +50,6 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   Oracle Java SE7 Silver
 -   ビジネス実務法務検定2級
 -   普通自動車運転免許AT限定
-
-# Portfolio
-
-## [neko the shadow's personal stuff](https://nekotheshadow.github.io/)
-
--   このサイトです。Hugoを利用して生成した静的コンテンツをGithub
-    Pagesにホスティングしています。ビルドとデプロイはGithub
-    Actionsを利用して自動化しています
--   [nekoTheShadow.github.io](https://github.com/nekoTheShadow/nekoTheShadow.github.io) - ビルド後のコンテンツを格納し、Github Pagesとして公開しています。
--   [nekoTheShadow.github.io.admin](https://github.com/nekoTheShadow/nekoTheShadow.github.io.admin) - ビルド前のコンテンツを格納しています。Pushされると、Github Actionsによりビルドが行われ、ビルド結果がnekoTheShadow.github.ioに格納されます
-
-## [my codeforces problems](https://nekotheshadow.github.io/codeforces/)
-
--   Codeforcesの問題一覧を表示するサイトです。汎用的なものではなく、自分が使いやすいように作ったもので、「自分が解いた問題をハイライトする」「自分専用のフィルタリング」などをサポートしています
--   Riot.js & SemanticUI & Github Pages。コンテンツの生成やビルド・デプロイの自動化にはPython3 & Github Actionsを利用しています
--   [codeforces](https://github.com/nekoTheShadow/codeforces) - 解答済みコードを管理しているレポジトリで、このレポジトリにPushされると、Github Actionsによりサイトの内容が更新されます
-
-## [jcal](https://github.com/nekoTheShadow/jcal)
-
--   自分用calコマンド、略してjcalコマンドです。
--   月単位のカレンダーを表示するコマンドで、土日祝日を色付けして表示します。祝日がある場合は、どの祝日であるのかも表示します。
--   作成にはGo言語を作成。statikを利用し、内閣府配布の国民の祝日CSVを取り込んでいるので、スタンドアローンで稼働します。各環境用のバイナリ作成と配布はgoreleaserを利用。これはGithub Actionsを使って自動化しています。
-
-## [rurema-preview](https://github.com/nekoTheShadow/rurema-preview)
-
--   Rubyの日本語マニュアルである"るりま"を修正したのち、想定通り修正できたかを簡単に確認するためのDockerイメージです。
--   [rurema-preview](https://github.com/users/nekoTheShadow/packages/container/rurema-preview/30180) - Dockerfileをもとに日次でイメージを作成し、このレポジトリに設置しています。イメージの作成はGithub Actionsを利用して自動化しています。
-
-## [qiita-backup](https://nekotheshadow.github.io/qiita-backup/)
-
-- Qiitaに投稿した記事のバックアップを取得し、内容をGithub Pages & Hugoを利用して公開しています。
-- [qiita-backup](https://github.com/nekoTheShadow/qiita-backup) - 必要なモジュールやバックアップ、公開内容までをすべて格納したレポジトリです。バックアップの取得、hugoに適した形式への加工、ビルド、Github Pagesへの公開までをGithub Actionsを用いて自動化しています。
 
 # Award
 
