@@ -25,6 +25,7 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 ## Software
 
 -   [Qiita](https://qiita.com/neko_the_shadow)
+    - [Qiita Backup](https://nekotheshadow.github.io/qiita-backup/): Qiitaの投稿内容を半自動で取得・バックアップし、GitHub Pagesで公開している。
 -   [GitHub](https://github.com/nekoTheShadow)
 -   [teratail](https://teratail.com/users/neko_the_shadow)
 
