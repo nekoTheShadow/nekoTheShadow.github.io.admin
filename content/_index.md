@@ -1,6 +1,6 @@
 ---
 title: "neko the shadow's personal stuff"
-date: 2021-04-16
+date: 2021-06-25
 draft: false
 ---
 
@@ -13,9 +13,15 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 このサイトを見たことを添えていただくとスムーズです。
 
 -   [Twitter](https://twitter.com/neko_the_shadow)
--   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
 
 # SNS
+
+## Bussiness
+
+-   [LAPRAS](https://lapras.com/public/3WQ8OHO)
+-   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
+-   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
+-   転職ドラフト (登録済みです。連絡いただければ、職務経歴などお送ります)
 
 ## Blog
 
@@ -34,13 +40,6 @@ SI業界の片隅でひっそり生きるシステムエンジニア。おもに
 -   [AtCoder](https://atcoder.jp/user/nekoTheShadow)
 -   [yukicoder](https://yukicoder.me/users/2324)
 -   [Codeforces](https://codeforces.com/profile/nekoTheShadow)
-
-## Bussiness
-
--   [LAPRAS](https://lapras.com/public/3WQ8OHO)
--   [LinkedIn](https://www.linkedin.com/in/%E5%AD%9F-%E4%B8%AD%E6%9D%91-a78b44198/)
--   [Facebook](https://www.facebook.com/profile.php?id=100009423617657)
--   転職ドラフト (登録済みです。連絡いただければ、職務経歴などお送ります)
 
 # Licence
 
